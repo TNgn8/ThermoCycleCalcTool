@@ -3,9 +3,7 @@ Das "Calculation Tool for Thermodynamic Cycles" ist Tool, welches aus einem Proj
 und kann Zustands- und Prozessgrößen für den Otto-, Diesel-, Stirling- und Joule-Prozess berechnen und visualisieren.
 
 # Download
-Die ganzen Dateien, inklusive Source-Code und Exe-Datei, können Sie [hier](https://github.com/TNgn8/Thermo-Tool-Erweiterung/releases/tag/v1.0) downloaden.
-
-Die Anwendung (EXE-Datei) befindet sich im Ordner "dist", unter dem Namen "Project_works".
-Die alte Anwendung ist ebenfalls im Ordner "dist", unter dem Namen "Project".
+Die ganzen Dateien, inklusive Source-Code und Exe-Datei, können Sie [hier](https://github.com/TNgn8/ThermoCycleCalcTool/releases/tag/v1.0) downloaden.
+Der SourceCode ist die Python Datei main.py
 
 Lizenz [hier](https://github.com/TNgn8/Thermo-Tool-Erweiterung/blob/master/LICENSE)
