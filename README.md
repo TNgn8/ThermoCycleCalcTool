@@ -4,6 +4,6 @@ und kann Zustands- und Prozessgrößen für den Otto-, Diesel-, Stirling- und Jo
 
 # Download
 Die ganzen Dateien, inklusive Source-Code und Exe-Datei, können Sie [hier](https://github.com/TNgn8/ThermoCycleCalcTool/releases/tag/v1.0) downloaden.
-Der SourceCode ist die Python Datei main.py
+Der SourceCode ist eine Python Datei mit dem Namen main.py in einer ZIP Datei.
 
-Lizenz [hier](https://github.com/TNgn8/Thermo-Tool-Erweiterung/blob/master/LICENSE)
+Lizenz [hier](https://github.com/TNgn8/ThermoCycleCalcTool/blob/main/LICENSE)
